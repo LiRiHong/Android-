@@ -7,7 +7,7 @@ Android 是 Google 公司专门为移动设备开发的平台，其中包括操�
 
 #### Android 平台架构（重点）
 
-![Android 平台架构图](../images/android系统/002wuwKBgy6HLRRhnij33.png)
+![Android 平台架构图](./images/Android系统架构.png)
 
 从图中我们可以清楚的认识到 Android 分为 **`4`** 层架构（ 5 层架构就多了一层硬件抽象层 HAL：hardwork abstract layer），层次分明。  
 1. **application层**。application 层位于最顶层，程序员接触最多的一层，系统已经编写好大量的 api，我们直接调用对应的 API 就可以编写完成我们想要的应用程序。在这一层中主要 Android 的四大组件和响应的 ui 组件。
