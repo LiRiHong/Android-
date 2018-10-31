@@ -9,7 +9,7 @@ Android 是 Google 公司专门为移动设备开发的平台，其中包括操�
 
 
 <div align="center">
-<img src="./images/Android系统架构.png"></img>
+<img src="../images/Android系统架构.png"></img>
 </div>
 
 从图中我们可以清楚的认识到 Android 分为 **`4`** 层架构（ 5 层架构就多了一层硬件抽象层 HAL：hardwork abstract layer），层次分明。  
